@@ -2,4 +2,4 @@
 
 [3d shapes](https://scred666.github.io/demos/3d-shapes/)
 
-[Memory game](https://scred666.github.io/demos/memory-game/) | [Memory Game @next 🚀](https://scred666.github.io/demos/memory-game-next/)
+[Memory game](https://scred666.github.io/demos/memory-game/) | [Memory Game @next](https://scred666.github.io/demos/memory-game-next/) 🚀
